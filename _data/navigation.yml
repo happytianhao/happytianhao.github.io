@@ -15,8 +15,14 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
   - title: "Internships"
     url: "/#-internships"
+
+  - title: "Conference Participations"
+    url: "/#-conference-participations"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
+
+  - title: "Open Source Projects"
+    url: "/#-open-source-projects"

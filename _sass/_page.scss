@@ -410,3 +410,83 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.conference-tag {
+  background-color: #745ffc;
+  color: white;
+  padding: 1px 8px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+.preprint-tag {
+  background-color: #6c757d;
+  color: white;
+  padding: 1px 8px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+.vision-tag {
+  background-color: #7ab787;
+  color: white;
+  padding: 1px 8px;
+  border-radius: 5px;
+  font-size: 0.8em;
+}
+
+.driving-tag {
+  background-color: #8ca3d4;
+  color: white;
+  padding: 1px 8px;
+  border-radius: 5px;
+  font-size: 0.8em;
+}
+
+.ssl-tag {
+  background-color: #dfbe93;
+  color: white;
+  padding: 1px 8px;
+  border-radius: 5px;
+  font-size: 0.8em;
+}
+
+.generation-tag {
+  background-color: #dfacc9;
+  color: white;
+  padding: 1px 8px;
+  border-radius: 5px;
+  font-size: 0.8em;
+}
+
+.paper-figure {
+  display: block;
+  max-width: 100%;
+  width: 600px;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  background-color: #ffffff;
+  margin: 0.5em 0;
+  border: 1px solid #efefef;
+  border-radius: 4px;
+}
+
+.paper-figure-row {
+  display: flex;
+  gap: 8px;
+  margin: 0.5em 0;
+  max-width: 100%;
+  width: 600px;
+
+  img {
+    flex: 1;
+    min-width: 0;
+    height: auto;
+    object-fit: contain;
+    background-color: #ffffff;
+    border: 1px solid #efefef;
+    border-radius: 4px;
+  }
+}
