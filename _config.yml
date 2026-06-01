@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianhao Zhao (赵天浩)"
-description              : "Ph.D. student at Wuhan University, working on computer vision and autonomous driving."
+description              : "Ph.D. student at Wuhan University in joint training with Beijing Zhongguancun Academy, working on autonomous driving, accident anticipation, and computer vision."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianhao Zhao (赵天浩)"
   avatar           : "images/avatar.jpg"
-  bio              : "Ph.D. Student | 武汉大学 & 北京中关村学院"
+  bio              : "WHU & ZGC Academy"
   location         : "Beijing, China"
-  employer         : "WHU & ZGC Academy"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mpvrgMMAAAAJ"
   email            : "zthwhucs@gmail.com"

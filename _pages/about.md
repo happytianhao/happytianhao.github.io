@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I'm **Tianhao Zhao (赵天浩)**, a Ph.D. student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), in a joint training program with [Beijing Zhongguancun Academy (北京中关村学院)](https://www.bza.edu.cn/). I am co-advised by [Prof. Yu Wu (武宇)](https://scholar.google.com/citations?user=23SZHUwAAAAJ) and [Prof. Jing Zhang (张敬)](https://scholar.google.com/citations?user=9jH5v74AAAAJ). I received my M.S. and B.E. degrees from Wuhan University in 2024 and 2021, respectively.
 
-My research interest includes autonomous driving and computer vision.
+My research interests include autonomous driving, accident anticipation, and computer vision.
 
 
 # 🔥 News
